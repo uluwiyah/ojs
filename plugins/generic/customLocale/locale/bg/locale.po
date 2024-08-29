@@ -1,0 +1,94 @@
+# Albena Vassileva <albena.ava@gmail.com>, 2022.
+# Cyril Kamburov <cc@intermedia.bg>, 2022.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-04-06 01:23+0000\n"
+"Last-Translator: Cyril Kamburov <cc@intermedia.bg>\n"
+"Language-Team: Bulgarian <http://translate.pkp.sfu.ca/projects/plugins/"
+"customLocale/bg_BG/>\n"
+"Language: bg_BG\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.9.1\n"
+
+msgid "plugins.generic.customLocale.searchResultsCount"
+msgstr ""
+"Показани са {{ currentLocaleKeys.length }} от {{ filteredKeysList.length }} "
+"резултата за „{{ phraseSearched }}“."
+
+msgid "plugins.generic.customLocale.fileDescription"
+msgstr ""
+"Въведете текст в съответното персонализирано текстово поле. Оставете "
+"персонализирано текстово празно, ако искате да се използва стандартният "
+"текст от OJS/OMP."
+
+msgid "plugins.generic.customLocale.searchDescription"
+msgstr "Въведете тук пълния ключ на език. Намерените ключове се маркират."
+
+msgid "plugins.generic.customLocale.customLocaleFiles"
+msgstr "Файлове за езика"
+
+msgid "plugins.generic.customLocale.files.pageTitle"
+msgstr "Име на файл"
+
+msgid "plugins.generic.customLocale.customLocale"
+msgstr "Езици"
+
+msgid "plugins.generic.customLocale.file.custom"
+msgstr "Персонализиран текст"
+
+msgid "plugins.generic.customLocale.file.reference"
+msgstr "Текст по подразбиране"
+
+msgid "plugins.generic.customLocale.file.edit"
+msgstr "Редактиране на {$filename}"
+
+msgid "plugins.generic.customLocale.file.editHeader"
+msgstr "Персонализиране на ключовете за езици"
+
+msgid "grid.action.printChanges"
+msgstr ""
+"Изтеглете файл със списък на всички персонализации, които сте направили."
+
+msgid "plugins.generic.customLocale.customize"
+msgstr "Персонализиране"
+
+msgid "plugins.generic.customLocale.localeKeyValue"
+msgstr "Стойност"
+
+msgid "plugins.generic.customLocale.localeKey"
+msgstr "Ключ"
+
+msgid "plugins.generic.customLocale.path"
+msgstr "Действие"
+
+msgid "plugins.generic.customLocale.localeKey.description"
+msgstr "Въведете целия ключ на език, който да търсите."
+
+msgid "plugins.generic.customLocale.printChanges"
+msgstr "Изтегляне на промените."
+
+msgid "plugins.generic.customLocale.noneCreated"
+msgstr "Няма езикови версии."
+
+msgid "plugins.generic.customLocale.saveAndContinue"
+msgstr "Запази и продължи"
+
+msgid "plugins.generic.customLocale.search.key"
+msgstr "Търсене на ключ"
+
+msgid "plugins.generic.customLocale.search.fileName"
+msgstr "Търсене в имената на файловете"
+
+msgid "plugins.generic.customLocale.description"
+msgstr ""
+"Този плъгин позволява персонализиране на текста на потребителския интерфейс "
+"по подразбиране, използван от OJS и OMP."
+
+msgid "plugins.generic.customLocale.name"
+msgstr "Плъгин за персонализиран език"
+
+msgid "plugins.generic.customLocale.file.onlyModified"
+msgstr "Само променени"

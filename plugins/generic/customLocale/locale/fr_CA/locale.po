@@ -1,0 +1,63 @@
+# Marie-Hélène Vézina [UdeMontréal] <marie-helene.vezina@umontreal.ca>, 2022.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-05T16:52:12+00:00\n"
+"PO-Revision-Date: 2022-11-11 20:02+0000\n"
+"Last-Translator: Marie-Hélène Vézina [UdeMontréal] <marie-helene."
+"vezina@umontreal.ca>\n"
+"Language-Team: French (Canada) <http://translate.pkp.sfu.ca/projects/plugins/"
+"customLocale/fr_CA/>\n"
+"Language: fr_CA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 4.13.1\n"
+
+msgid "plugins.generic.customLocale.name"
+msgstr "Plugiciel de configuration locale"
+
+msgid "plugins.generic.customLocale.description"
+msgstr ""
+"Ce plugiciel permet de personnaliser le texte par défaut de l'interface "
+"utilisateur de OJS et OMP."
+
+msgid "plugins.generic.customLocale.saveAndContinue"
+msgstr "Sauvegarder et continuer"
+
+msgid "plugins.generic.customLocale.noneCreated"
+msgstr "Aucun fichier de configuration locale trouvé."
+
+msgid "plugins.generic.customLocale.customize"
+msgstr "Personnaliser"
+
+msgid "plugins.generic.customLocale.printChanges"
+msgstr "Télécharger les modifications."
+
+msgid "plugins.generic.customLocale.file.edit"
+msgstr "Modification du fichier {$filename}"
+
+msgid "plugins.generic.customLocale.file.reference"
+msgstr "Texte par défaut"
+
+msgid "plugins.generic.customLocale.file.custom"
+msgstr "Texte personnalisé"
+
+msgid "plugins.generic.customLocale.customLocale"
+msgstr "Configurations locales"
+
+msgid "plugins.generic.customLocale.customLocaleFiles"
+msgstr "Fichiers de configuration locale"
+
+msgid "plugins.generic.customLocale.searchResultsCount"
+msgstr ""
+"Affichage {{ currentLocaleKeys.length }} de {{ filteredKeysList.length }} "
+"résultat(s) pour « {{ phraseSearched }} »."
+
+msgid "plugins.generic.customLocale.file.editHeader"
+msgstr "Personnaliser les clés de configuration locale"
+
+msgid "plugins.generic.customLocale.file.onlyModified"
+msgstr "Seulement modifié.e"

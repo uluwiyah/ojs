@@ -1,0 +1,90 @@
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-03-10 18:54+0000\n"
+"Last-Translator: Real Academia Galega <reacagal@gmail.com>\n"
+"Language-Team: Galician <http://translate.pkp.sfu.ca/projects/plugins/"
+"customLocale/gl_ES/>\n"
+"Language: gl_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.9.1\n"
+
+msgid "plugins.generic.customLocale.searchResultsCount"
+msgstr ""
+"Amosando {{ currentLocaleKeys.length }} de {{ filteredKeysList.length }} "
+"resultados para \"{{ phraseSearched }}\"."
+
+msgid "plugins.generic.customLocale.fileDescription"
+msgstr ""
+"Insira o texto no campo de texto personalizado correspondente. Deixa en "
+"branco o campo de texto personalizado se se debe usar o texto predeterminado "
+"OJS/OMP."
+
+msgid "plugins.generic.customLocale.searchDescription"
+msgstr ""
+"Introduza aquí unha clave de configuración local. As claves atopadas están "
+"resaltadas."
+
+msgid "plugins.generic.customLocale.customLocaleFiles"
+msgstr "Arquivos de configuración local"
+
+msgid "plugins.generic.customLocale.files.pageTitle"
+msgstr "Nome do arquivo"
+
+msgid "plugins.generic.customLocale.customLocale"
+msgstr "Configuracións locais"
+
+msgid "plugins.generic.customLocale.file.custom"
+msgstr "Texto personalizado"
+
+msgid "plugins.generic.customLocale.file.reference"
+msgstr "Texto predeterminado"
+
+msgid "plugins.generic.customLocale.file.edit"
+msgstr "Editando {$filename}"
+
+msgid "plugins.generic.customLocale.file.editHeader"
+msgstr "Personalizar as claves da configuración local"
+
+msgid "grid.action.printChanges"
+msgstr "Descarga un arquivo que inclúa todas as personalizacións que fixeches."
+
+msgid "plugins.generic.customLocale.customize"
+msgstr "Personalizar"
+
+msgid "plugins.generic.customLocale.localeKeyValue"
+msgstr "Valor"
+
+msgid "plugins.generic.customLocale.localeKey"
+msgstr "Clave"
+
+msgid "plugins.generic.customLocale.path"
+msgstr "Acción"
+
+msgid "plugins.generic.customLocale.localeKey.description"
+msgstr "Introduza a clave da configuración local para buscala."
+
+msgid "plugins.generic.customLocale.printChanges"
+msgstr "Descargar documentación"
+
+msgid "plugins.generic.customLocale.noneCreated"
+msgstr "Non se atoparon arquivos."
+
+msgid "plugins.generic.customLocale.saveAndContinue"
+msgstr "Gardar e continuar"
+
+msgid "plugins.generic.customLocale.search.key"
+msgstr "Buscar por clave"
+
+msgid "plugins.generic.customLocale.search.fileName"
+msgstr "Buscar nos nomes de arquivos"
+
+msgid "plugins.generic.customLocale.description"
+msgstr ""
+"Este complemento permite a personalización do texto predeterminado da "
+"interface de usuario/a usado por OJS e OMP."
+
+msgid "plugins.generic.customLocale.name"
+msgstr "Complemento de configuración local personalizada"

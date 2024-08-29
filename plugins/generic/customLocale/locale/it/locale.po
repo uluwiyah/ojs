@@ -1,0 +1,64 @@
+# Fulvio Delle Donne <fulviodelledonne@libero.it>, 2022.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-08-09 11:25+0000\n"
+"Last-Translator: Fulvio Delle Donne <fulviodelledonne@libero.it>\n"
+"Language-Team: Italian <http://translate.pkp.sfu.ca/projects/plugins/"
+"customLocale/it_IT/>\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.13.1\n"
+
+msgid "plugins.generic.customLocale.searchResultsCount"
+msgstr ""
+"Visualizzando {{ currentLocaleKeysList.length }} di {{ "
+"filteredKeysList.length }} risultati per \"{{ phraseSearched }}\"."
+
+msgid "plugins.generic.customLocale.searchDescription"
+msgstr ""
+"Inserire qui una chiave di localizzazione completa. Le chiavi trovate sono "
+"evidenziate."
+
+msgid "plugins.generic.customLocale.customLocaleFiles"
+msgstr "File di impostazione regionale"
+
+msgid "plugins.generic.customLocale.customLocale"
+msgstr "Impostazione regionale"
+
+msgid "plugins.generic.customLocale.file.custom"
+msgstr "Testo personalizzato"
+
+msgid "plugins.generic.customLocale.file.reference"
+msgstr "Testo predefinito"
+
+msgid "plugins.generic.customLocale.file.edit"
+msgstr "Modifica {$nome del file}"
+
+msgid "plugins.generic.customLocale.file.editHeader"
+msgstr "Personalizzare i chiavi di localizzazione"
+
+msgid "plugins.generic.customLocale.printChanges"
+msgstr "Scarica un file che elenca tutte le personalizzazioni effettuate."
+
+msgid "plugins.generic.customLocale.customize"
+msgstr "Personalizzare"
+
+msgid "plugins.generic.customLocale.noneCreated"
+msgstr "Nessuna lingua trovata."
+
+msgid "plugins.generic.customLocale.saveAndContinue"
+msgstr "Salvare e continuare"
+
+msgid "plugins.generic.customLocale.description"
+msgstr ""
+"Questo plugin consente di personalizzare il testo dell'interfaccia utente "
+"predefinita utilizzata da OJS e OMP."
+
+msgid "plugins.generic.customLocale.name"
+msgstr "Plugin Locale personalizzato"
+
+msgid "plugins.generic.customLocale.file.onlyModified"
+msgstr "Solo modificato"

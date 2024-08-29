@@ -1,0 +1,59 @@
+# Alexandra Fogtmann-Schulz <alfo@kb.dk>, 2022.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-04-06 01:23+0000\n"
+"Last-Translator: Alexandra Fogtmann-Schulz <alfo@kb.dk>\n"
+"Language-Team: Danish <http://translate.pkp.sfu.ca/projects/plugins/"
+"customLocale/da_DK/>\n"
+"Language: da_DK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.9.1\n"
+
+msgid "plugins.generic.customLocale.searchResultsCount"
+msgstr ""
+"Visning af {{ currentLocaleKeys.length }} af {{ filteredKeysList.length }} "
+"resulter for \"{{ phraseSearched }}\"."
+
+msgid "plugins.generic.customLocale.customLocaleFiles"
+msgstr "Sprogfiler"
+
+msgid "plugins.generic.customLocale.customLocale"
+msgstr "Sprog"
+
+msgid "plugins.generic.customLocale.file.custom"
+msgstr "Brugerdefineret tekst"
+
+msgid "plugins.generic.customLocale.file.reference"
+msgstr "Standardtekst"
+
+msgid "plugins.generic.customLocale.file.edit"
+msgstr "Redigering af {$filename}"
+
+msgid "plugins.generic.customLocale.file.editHeader"
+msgstr "Tilpas sprogkoder"
+
+msgid "plugins.generic.customLocale.printChanges"
+msgstr "Download en fil, der viser alle de tilpasninger, du har foretaget."
+
+msgid "plugins.generic.customLocale.customize"
+msgstr "Tilpas"
+
+msgid "plugins.generic.customLocale.noneCreated"
+msgstr "Der blev ikke fundet nogen sprog."
+
+msgid "plugins.generic.customLocale.saveAndContinue"
+msgstr "Gem og fortsæt"
+
+msgid "plugins.generic.customLocale.description"
+msgstr ""
+"Denne plugin muliggør tilpasning af teksten på standard brugergrænsefladen "
+"til OJS og OMP."
+
+msgid "plugins.generic.customLocale.name"
+msgstr "Custom Locale Plugin"
+
+msgid "plugins.generic.customLocale.file.onlyModified"
+msgstr "Kun ændret"

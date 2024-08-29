@@ -1,0 +1,94 @@
+# Studiorimau <studiorimau@gmail.com>, 2021.
+# Mohamad Shabilullah <shabilhamid91@gmail.com>, 2022.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-12-31 05:02+0000\n"
+"Last-Translator: Mohamad Shabilullah <shabilhamid91@gmail.com>\n"
+"Language-Team: Malay <http://translate.pkp.sfu.ca/projects/plugins/"
+"customLocale/ms/>\n"
+"Language: ms\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.13.1\n"
+
+msgid "plugins.generic.customLocale.searchResultsCount"
+msgstr ""
+"Memaparkan {{currentLocaleKeys.length}} daripada {{filteredKeysList.length}} "
+"hasil untuk \"{{FrasaSearched}}\"."
+
+msgid "plugins.generic.customLocale.fileDescription"
+msgstr ""
+"Masukkan teks ke dalam medan teks custom yang sesuai. Biarkan bidang teks "
+"custom kosong jika teks OJS / OMP lalai harus digunakan."
+
+msgid "plugins.generic.customLocale.searchDescription"
+msgstr ""
+"Masukkan kunci locale(bahasa) yang lengkap di sini. Kekunci yang dijumpai "
+"diserlahkan."
+
+msgid "plugins.generic.customLocale.customLocaleFiles"
+msgstr "Fail bahasa"
+
+msgid "plugins.generic.customLocale.files.pageTitle"
+msgstr "Nama fail"
+
+msgid "plugins.generic.customLocale.customLocale"
+msgstr "Bahasa"
+
+msgid "plugins.generic.customLocale.file.custom"
+msgstr "Teks Custom"
+
+msgid "plugins.generic.customLocale.file.reference"
+msgstr "Teks Lalai"
+
+msgid "plugins.generic.customLocale.file.edit"
+msgstr "Menyunting {$filename}"
+
+msgid "plugins.generic.customLocale.file.editHeader"
+msgstr "Ubah Suai kunci locale(bahasa)"
+
+msgid "grid.action.printChanges"
+msgstr "Muat turun fail yang menyenaraikan semua pengubahsuain yang anda buat."
+
+msgid "plugins.generic.customLocale.customize"
+msgstr "Ubah suai"
+
+msgid "plugins.generic.customLocale.localeKeyValue"
+msgstr "Nilai"
+
+msgid "plugins.generic.customLocale.localeKey"
+msgstr "Kunci"
+
+msgid "plugins.generic.customLocale.path"
+msgstr "Tindakan"
+
+msgid "plugins.generic.customLocale.localeKey.description"
+msgstr "Masukkan keseluruhan kunci locale(bahasa) untuk mencari."
+
+msgid "plugins.generic.customLocale.printChanges"
+msgstr "Muat turun perubahan."
+
+msgid "plugins.generic.customLocale.noneCreated"
+msgstr "Fail tidak dijumpai."
+
+msgid "plugins.generic.customLocale.saveAndContinue"
+msgstr "Simpan dan teruskan"
+
+msgid "plugins.generic.customLocale.search.key"
+msgstr "Cari kunci"
+
+msgid "plugins.generic.customLocale.search.fileName"
+msgstr "Cari dalam nama fail"
+
+msgid "plugins.generic.customLocale.description"
+msgstr ""
+"Plugin ini membolehkan pengubahsuian teks antara muka pengguna lalai yang "
+"digunakan oleh OJS dan OMP."
+
+msgid "plugins.generic.customLocale.name"
+msgstr "Plugin Bahasa Custom"
+
+msgid "plugins.generic.customLocale.file.onlyModified"
+msgstr "Hanya diubah suai"

@@ -1,0 +1,60 @@
+# Artashes Mirzoyan <amirzoyan@sci.am>, 2022.
+# Tigran Zargaryan <tigran@flib.sci.am>, 2022.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-07-02 03:52+0000\n"
+"Last-Translator: Tigran Zargaryan <tigran@flib.sci.am>\n"
+"Language-Team: Armenian <http://translate.pkp.sfu.ca/projects/plugins/"
+"customLocale/hy_AM/>\n"
+"Language: hy_AM\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 3.9.1\n"
+
+msgid "plugins.generic.customLocale.file.onlyModified"
+msgstr "Միայն փոփոխված"
+
+msgid "plugins.generic.customLocale.searchResultsCount"
+msgstr ""
+"Ցուցադրվում են {{ currentLocaleKeys.length }} -ը ընդամենը {{ "
+"filteredKeysList.length }} արդյունքներից \"{{ phraseSearched }} -ի համար:"
+
+msgid "plugins.generic.customLocale.customLocaleFiles"
+msgstr "Տեղային նիշքեր"
+
+msgid "plugins.generic.customLocale.customLocale"
+msgstr "Տեղայիններ"
+
+msgid "plugins.generic.customLocale.file.custom"
+msgstr "Անհատականացված տեքստ"
+
+msgid "plugins.generic.customLocale.file.reference"
+msgstr "Լռելյայն տեքստ"
+
+msgid "plugins.generic.customLocale.file.edit"
+msgstr "Խմբագրում {$filename}"
+
+msgid "plugins.generic.customLocale.file.editHeader"
+msgstr "Անհատականացրեք տեղային բանալիները"
+
+msgid "plugins.generic.customLocale.printChanges"
+msgstr "Ներբեռնեք փոփոխությունները:"
+
+msgid "plugins.generic.customLocale.customize"
+msgstr "Անհատականացրեք"
+
+msgid "plugins.generic.customLocale.noneCreated"
+msgstr "Տեղայիններ չեն գտնվել:"
+
+msgid "plugins.generic.customLocale.saveAndContinue"
+msgstr "Պահպանել և շարունակել"
+
+msgid "plugins.generic.customLocale.description"
+msgstr ""
+"Այս փլագինը հնարավորություն է տալիս հարմարեցնել OJS-ի և OMP-ի կողմից "
+"օգտագործվող միջերեսի լռելյայն տեքստը:"
+
+msgid "plugins.generic.customLocale.name"
+msgstr "Անհատականացված տեղային հավելված"

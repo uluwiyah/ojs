@@ -1,0 +1,64 @@
+# Tormod Strømme <tormod.stromme@uib.no>, 2022.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-08-19 12:33+0000\n"
+"Last-Translator: Tormod Strømme <tormod.stromme@uib.no>\n"
+"Language-Team: Norwegian Bokmål <http://translate.pkp.sfu.ca/projects/"
+"plugins/customLocale/nb_NO/>\n"
+"Language: nb_NO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.13.1\n"
+
+msgid "plugins.generic.customLocale.searchResultsCount"
+msgstr ""
+"Visning av {{ currentLocaleKeys.length }} av {{ filteredKeysList.length }} "
+"resulter for \"{{ phraseSearched }}\"."
+
+msgid "plugins.generic.customLocale.searchDescription"
+msgstr ""
+"Legg inn en komplett språknøkkel her. Språknøkler som er funnet blir "
+"fremhevet."
+
+msgid "plugins.generic.customLocale.customLocaleFiles"
+msgstr "Språkfiler"
+
+msgid "plugins.generic.customLocale.customLocale"
+msgstr "Språk"
+
+msgid "plugins.generic.customLocale.file.custom"
+msgstr "Brukerdefinert tekst"
+
+msgid "plugins.generic.customLocale.file.reference"
+msgstr "Standardtekst"
+
+msgid "plugins.generic.customLocale.file.edit"
+msgstr "Rediger {filename}"
+
+msgid "plugins.generic.customLocale.file.editHeader"
+msgstr "Tilpass språkkoder"
+
+msgid "plugins.generic.customLocale.printChanges"
+msgstr "Last ned en fil som viser alle tilpasninger du har gjort."
+
+msgid "plugins.generic.customLocale.customize"
+msgstr "Tilpass"
+
+msgid "plugins.generic.customLocale.noneCreated"
+msgstr "Ingen språkpakker ble funnet."
+
+msgid "plugins.generic.customLocale.saveAndContinue"
+msgstr "Lagre og fortsett"
+
+msgid "plugins.generic.customLocale.description"
+msgstr ""
+"Dette programtillegget muliggjør tilpasning av teksten i standard "
+"brukergrensesnitt for OJS og OMP."
+
+msgid "plugins.generic.customLocale.name"
+msgstr "Brukerdefinert språkprogramtillegg"
+
+msgid "plugins.generic.customLocale.file.onlyModified"
+msgstr "Kun endret"

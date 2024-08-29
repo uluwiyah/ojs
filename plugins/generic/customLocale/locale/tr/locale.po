@@ -1,0 +1,59 @@
+# Hüseyin Körpeoğlu <yoruyenturk@hotmail.com>, 2022.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-09-06 13:50+0000\n"
+"Last-Translator: Hüseyin Körpeoğlu <yoruyenturk@hotmail.com>\n"
+"Language-Team: Turkish <http://translate.pkp.sfu.ca/projects/plugins/"
+"customLocale/tr_TR/>\n"
+"Language: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.13.1\n"
+
+msgid "plugins.generic.customLocale.searchResultsCount"
+msgstr ""
+"\"{{ phraseSearched }}\" için {{ filteredKeysList.length }} sonuçtan {{ "
+"currentLocaleKeys.length }} gösteriliyor."
+
+msgid "plugins.generic.customLocale.customLocaleFiles"
+msgstr "Dil dosyaları"
+
+msgid "plugins.generic.customLocale.customLocale"
+msgstr "Diller"
+
+msgid "plugins.generic.customLocale.file.custom"
+msgstr "Özel Metin"
+
+msgid "plugins.generic.customLocale.file.reference"
+msgstr "Varsayılan Metin"
+
+msgid "plugins.generic.customLocale.file.edit"
+msgstr "{$filename} düzenle"
+
+msgid "plugins.generic.customLocale.file.editHeader"
+msgstr "Dil Key'ini özelleştir"
+
+msgid "plugins.generic.customLocale.printChanges"
+msgstr "Yaptığınız tüm özelleştirmeleri listeleyen bir dosya indirin."
+
+msgid "plugins.generic.customLocale.customize"
+msgstr "Özelleştir"
+
+msgid "plugins.generic.customLocale.noneCreated"
+msgstr "Dil bulunamadı."
+
+msgid "plugins.generic.customLocale.saveAndContinue"
+msgstr "Kaydet ve devam et"
+
+msgid "plugins.generic.customLocale.description"
+msgstr ""
+"Bu eklenti, OJS ve OMP tarafından kullanılan varsayılan kullanıcı arayüz "
+"çevirisinin özelleştirilmesini sağlar."
+
+msgid "plugins.generic.customLocale.name"
+msgstr "Özel Dil Eklentisi"
+
+msgid "plugins.generic.customLocale.file.onlyModified"
+msgstr "Sadece değiştirilmiş"

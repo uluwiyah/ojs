@@ -1,0 +1,91 @@
+# Dimitri Gogelia <dimitri.gogelia@iliauni.edu.ge>, 2022.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-04-22 07:58+0000\n"
+"Last-Translator: Dimitri Gogelia <dimitri.gogelia@iliauni.edu.ge>\n"
+"Language-Team: Georgian <http://translate.pkp.sfu.ca/projects/plugins/"
+"customLocale/ka_GE/>\n"
+"Language: ka_GE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.9.1\n"
+
+msgid "plugins.generic.customLocale.path"
+msgstr "მოქმედება"
+
+msgid "plugins.generic.customLocale.localeKey"
+msgstr "გასაღები"
+
+msgid "plugins.generic.customLocale.localeKeyValue"
+msgstr "მნიშვნელობა"
+
+msgid "plugins.generic.customLocale.customize"
+msgstr "მორგება"
+
+msgid "plugins.generic.customLocale.files.pageTitle"
+msgstr "ფაილის სახელი"
+
+msgid "plugins.generic.customLocale.name"
+msgstr "ენის მორგებული პლაგინი"
+
+msgid "plugins.generic.customLocale.description"
+msgstr ""
+"ეს პლაგინი საშუალებას გაძლევთ ნაგულისხმევი ინტერფეისის ტექსტის "
+"პერსონალიზებას, რომელსაც იყენებენ OJS და OMP."
+
+msgid "plugins.generic.customLocale.search.fileName"
+msgstr "ფაილების სახელების ძებნა"
+
+msgid "plugins.generic.customLocale.search.key"
+msgstr "გასაღების ძიება"
+
+msgid "plugins.generic.customLocale.saveAndContinue"
+msgstr "შენახვა და გაგრძელება"
+
+msgid "plugins.generic.customLocale.noneCreated"
+msgstr "ენები ვერ მოიძებნა."
+
+msgid "plugins.generic.customLocale.printChanges"
+msgstr "ცვლილებების ჩამოტვირთვა."
+
+msgid "plugins.generic.customLocale.localeKey.description"
+msgstr "შეიყვანეთ ენის გასაღები."
+
+msgid "grid.action.printChanges"
+msgstr "ჩამოტვირთეთ ფაილი, რომელშიც ჩამოთვლილია ყველა მორგება."
+
+msgid "plugins.generic.customLocale.file.editHeader"
+msgstr "ენის გასაღებების მორგება"
+
+msgid "plugins.generic.customLocale.file.edit"
+msgstr "ჩასწორება: {$filename}"
+
+msgid "plugins.generic.customLocale.file.reference"
+msgstr "ნაგულისხმევი ტექსტი"
+
+msgid "plugins.generic.customLocale.file.custom"
+msgstr "მორგებული ტექსტი"
+
+msgid "plugins.generic.customLocale.customLocale"
+msgstr "ენები"
+
+msgid "plugins.generic.customLocale.customLocaleFiles"
+msgstr "ენის ფაილები"
+
+msgid "plugins.generic.customLocale.searchDescription"
+msgstr "აქ შეიყვანეთ ენის სრული გასაღები. ნაპოვნი გასაღებები მონიშნულია."
+
+msgid "plugins.generic.customLocale.fileDescription"
+msgstr ""
+"შეიყვანეთ ტექსტი შესაბამის ტექსტურ ველში. მორგებული ტექსტის ველი ცარიელი "
+"დატოვეთ, თუ ნაგულისხმევი OJS/OMP ტექსტი უნდა იქნას გამოყენებული."
+
+msgid "plugins.generic.customLocale.searchResultsCount"
+msgstr ""
+"ნაჩვენებია {{ currentLocaleKeys.length }}: {{ filteredKeysList.length }} "
+"შედეგები: \"{{ phraseSearched }}\"."
+
+msgid "plugins.generic.customLocale.file.onlyModified"
+msgstr "მხოლოდ შეცვლილი"
